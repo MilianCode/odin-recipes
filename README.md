@@ -1,0 +1,1 @@
+During this small project I'm going to practice all of my HTML knowledge
